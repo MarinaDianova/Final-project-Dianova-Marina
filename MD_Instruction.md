@@ -14,5 +14,10 @@
 ## Работа с таблицами
 
 ## Цитаты
+Блоки цитирования создаются с помощью символа >:
+
+> This is a blockquote. It is usually rendered indented and with a different background color.
+
+> Это блок цитирования. Обычно он отображается с отступом и имеет другой цвет фона.
 
 ## Заключение
